@@ -1,0 +1,1 @@
+export { jiraIssuesBackendPlugin } from './plugin';
